@@ -11,9 +11,9 @@ Others: Multer, CORS
 
 <!-- Live URLs -->
 
-Frontend: https://your-frontend-url.vercel.app
+Frontend: https://frontend-hf14-1ka9s47r8-shubham-mishras-projects-710eee98.vercel.app/
 
-Backend: https://your-backend-url.onrender.com
+Backend: https://backend-1-a7rl.onrender.com/
 
  <!-- Features -->
 
